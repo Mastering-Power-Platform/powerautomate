@@ -72,7 +72,7 @@ Create a cloud flow from a template:
   
   <img src="images/T2/image-5.png" alt="image" width="50%" height="50%">!
 
-  f. Edit __Apply for each__ control flow.
+  g. Edit __Apply for each__ control flow.
 
  >If approve response is __Approve__, edit the __Send an email(v2)__ action as below
   
@@ -85,4 +85,43 @@ Create a cloud flow from a template:
 > If approver response is __Reject__, add a __Send an email(v2)__ action as below:
 
   <img src="images/T2/image-7.png" alt="image" width="80%" height="80%">
+
+h. Update the status of expense claim in the Sharepoint List
+
+>If approve response is __Approve__, update the status as __Approved__ and __Rejected__ if approve response is __Rejected__
+
+  <img src="images/T2/image-8.png" alt="image" width="80%" height="80%">
+
+i. __Save__ the flow
+
+## Task 3
+
+Test the flow by adding an expense item to the SharePoint list using the following steps:
+a. Navigate to your SharePoint list, for example, by clicking on the list name on the Quick Launch bar.
+
+b. Click __New__ and complete the form similar to the following screenshot (keep the Status field empty):
+ 
+  <img src="images/T2/image-9.png" alt="image" width="50%" height="50%">
+
+c. Save the new record, which will automatically trigger the flow.
+e. Check the flow status. It should be running:
+ 
+  <img src="images/T2/image-10.png" alt="image" width="50%" height="50%">
+
+
+f. Click the running flow to see the progress of this instance of the flow:
+
+  <img src="images/T2/image-11.png" alt="image" width="50%" height="50%">
+
+g. Approve or reject the expense claim request by either __making a selection on your email__ or in the __Approvals Centre__
+
+  <img src="images/T2/image-12.png" alt="image" width="50%" height="50%">
+
+h. Approve or Reject, and once the approval/rejection is completed, check the status value in the list.
+
+  <img src="images/T2/image-13.png" alt="image" width="50%" height="50%">
+
+
+## Optional exercise if time permits:
+Amend the flow to automatically approve the expense If the amount is smaller than $500; otherwise, the expense item will progress through the approval process.
 
