@@ -123,5 +123,4 @@ h. Approve or Reject, and once the approval/rejection is completed, check the st
 
 
 ## Optional exercise if time permits:
-Amend the flow to automatically approve the expense If the amount is smaller than $500; otherwise, the expense item will progress through the approval process.
-
+### Amend the flow to automatically approve the expense If the amount is smaller than $500; otherwise, the expense item will progress through the approval process.
