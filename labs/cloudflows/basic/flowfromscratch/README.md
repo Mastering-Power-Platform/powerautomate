@@ -29,7 +29,7 @@ Create your own custom SharePoint list using the following steps:
 
 ## Task 2
 
-Create a cloud flow from a scratch: 
+Create a cloud flow from scratch: 
 
 a. Create a new Instant cloud flow and use a Manually trigger a flow as a trigger. Name it __Reminder for overdue tasks__. Click __Create__
 
