@@ -85,10 +85,15 @@ b. __Save__ and Test the flow.
 
 ## Task 4
 
-1. Replace the __If__ condition with a __Switch__ statement of the __Priority Value__
+a. Replace the __If__ condition with a __Switch__ statement of the __Priority Value__
 - Case 1 equals __High__ > Send email to yourself with subject __Case High__
 - Case 2 equals __Medium__ > Send email to yourself with subject __Case Medium__
 - Case 3 equals __Low__ > Send email to yourself with subject __Case Low__
 - Case 4 equals __Critical__ > Send email to yourself with subject __Case Critical__
 
 <img src="images/image-6.png" alt="image" width="100%" height="100%">
+
+b. e. __Save__ and Test the flow.
+
+* Modify an item in the __Work Progress Tracker__ SharePoint list.
+* Verify the email based on relevant conditions.
