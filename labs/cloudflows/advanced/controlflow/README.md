@@ -44,7 +44,7 @@ c. Add a new condition - if __Priority Value__ __is equal to__ __High__ OR __Pri
 d. Add a __Send an Email(v2) action for the True and False Branches:
 
 
-<img src="images/image-3.png" alt="image" width="50%" height="50%">
+<img src="images/image-3.png" alt="image" width="100%" height="100%">
 
 
 e. __Save__ and Test the flow.
@@ -57,7 +57,7 @@ e. __Save__ and Test the flow.
 a. Modify the condition - if __Priority Value__ __is equal to__ __High__ AND __Progress Value__ __is equal to__ __Not started__.
 
 
-<img src="images/image-4.png" alt="image" width="50%" height="50%">
+<img src="images/image-4.png" alt="image" width="100%" height="100%">
 
 
 b. __Save__ and Test the flow.
@@ -74,7 +74,7 @@ if __Priority Value__ __is equal to__ __High__ OR __Priority Value__ __is equal 
 
 
 
-<img src="images/image-5.png" alt="image" width="50%" height="50%">
+<img src="images/image-5.png" alt="image" width="100%" height="100%">
 
 
 b. __Save__ and Test the flow.
