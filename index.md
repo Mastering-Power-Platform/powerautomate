@@ -7,6 +7,10 @@ These are hands-on resources to help you learn Power Automate.
 
 Setting up the experimental designer & activate your Power Apps developer plan
 
+### Find your lab environment details
+- [List of usernames for this course](https://edumscloud-my.sharepoint.com/:x:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/ETGAI96lJSJJvabhN1Ni6ioBrteRjWJ-TVz3JCqhLJ0MXg?e=uOBXt8)
+- Please type your name against the chosen username. Please use the same username through this course to maintain consistency.
+
 ### Select the new Power Automate Designer
 The new Power Automate designer is still in the experimental stage at the time of writing. To select the new designer,
 1. go to https://powerautomate.com, and sign-in.
