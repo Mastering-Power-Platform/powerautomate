@@ -3,9 +3,9 @@ Welcome to the __Mastering Power Automate__ labs.
 
 These are hands-on resources to help you learn Power Automate.
 
-## Pre-reqs
+## Pre-req
 
-- Setting up the experimental designer & activate your Power Apps developer plan
+Setting up the experimental designer & activate your Power Apps developer plan
 
 ### Select the new Power Automate Designer
 The new Power Automate designer is still in the experimental stage at the time of writing. To select the new designer,
@@ -20,6 +20,9 @@ The new Power Automate designer is still in the experimental stage at the time o
 The Microsoft365 license provides a Standard Power Apps and Power Automate license which is good enough for most labs. However, some labs require a Premium connector; the Power Apps Developer Plan gives you access to __Premium__ features of the product for free. The main restriction of the Developer license is that flows and applications created with this license cannot be used in production.
 Follow the instruction described here [Sign up for Power Apps Developer Plan - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/developer/plan) to activate this license.
 A dedicated Power Platform environment will be generated as part of this activation, and this is where you will do the exercises.
+
+### Slides
+Please download the slides by clicking [here](https://edumscloud-my.sharepoint.com/:f:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/EmS4x2D1Vp1Mlqmo-WKIg_YBOE-Wfq2IoFJnDaI2Tel94w?e=5GrMuj).
 
 
 # Day 1
