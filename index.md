@@ -50,3 +50,6 @@ Please download the slides by clicking [here](https://edumscloud-my.sharepoint.c
 - [Error handling in Power Automate](labs/cloudflows/advanced/errorhandling/README.md)
 
 ## Robotic Process Automation using Desktop Flows
+- [Creating a Desktop Flow - Working with a legacy application](labs/rpa/desktopflow/README.md)
+- [Calling a Desktop Flow from a Cloud Flow](labs/rpa/integration/README.md)
+- [Process Advisor](labs/rpa/processadvisor/README.md)
