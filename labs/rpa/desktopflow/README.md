@@ -64,5 +64,11 @@ c. Download and Install the [legacy invoicing application](/labs/rpa/desktopflow
 <img src="images/image-3.png" alt="image" width="20%" height="20%">
 
 
-- Next, spend some time getting familiar with the Contoso Invoicing app. These steps explore how the Contoso Coffee shop employee manually enters a new invoice record into the company application system when a new invoice is received. This exercise helps you better prepare for the following lab exercises.
+d. Next, spend some time getting familiar with the Contoso Invoicing app. These steps explore how the Contoso Coffee shop employee manually enters a new invoice record into the company application system when a new invoice is received. This exercise helps you better prepare for the following lab exercises.
 
+
+## Task 2
+
+a. Create a new Desktop flow by clicking on __My Flows__ > Under __Desktop Flows__ > Click __+ New Desktop Flow__ > Click __Launch App__
+
+![Alt text](image.png)
