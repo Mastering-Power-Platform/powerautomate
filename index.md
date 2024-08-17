@@ -13,7 +13,7 @@ Setting up the experimental designer & activate your Power Apps developer plan
 
 ### Select the new Power Automate Designer
 The new Power Automate designer is still in the experimental stage at the time of writing. To select the new designer,
-1. go to https://powerautomate.com, and sign-in.
+1. Go to https://powerautomate.com, and sign-in.
 2. This will redirect you to https://make.powerautomate.com.
 3. Select the settings button:
 4. Select View all Power Automate settings
