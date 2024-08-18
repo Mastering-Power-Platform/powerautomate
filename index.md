@@ -20,10 +20,17 @@ The new Power Automate designer is still in the experimental stage at the time o
 5. Check the option Experimental Features
 6. Click Save.
 
-### Activate your developer license
+### Activate your developer license (Optional, as this license is already activated for lab users)
 The Microsoft365 license provides a Standard Power Apps and Power Automate license which is good enough for most labs. However, some labs require a Premium connector; the Power Apps Developer Plan gives you access to __Premium__ features of the product for free. The main restriction of the Developer license is that flows and applications created with this license cannot be used in production.
 Follow the instruction described here [Sign up for Power Apps Developer Plan - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/developer/plan) to activate this license.
 A dedicated Power Platform environment will be generated as part of this activation, and this is where you will do the exercises.
+
+### Create your own SharePoint site 
+
+All students must login to [SharePoint Online](https://edumscloud.sharepoint.com/) and create a new __Team Site__.
+Click on __Home__ > __+ Create Site__ > __Team Site__ > __Standard Team__ > __Use Template__
+
+[Detailed steps to create a team site on SharePoint](https://support.microsoft.com/en-us/office/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
 
 ### Slides
 Please download the slides by clicking [here](https://edumscloud-my.sharepoint.com/:f:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/EmS4x2D1Vp1Mlqmo-WKIg_YBOE-Wfq2IoFJnDaI2Tel94w?e=5GrMuj).
