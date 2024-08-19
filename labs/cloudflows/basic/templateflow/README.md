@@ -11,7 +11,7 @@ In this lab, you will create a cloud flow using a Power Automate template that w
 * `Learning objectives`- Approvals and conditions
 * `Duration` - 30 minutes
 * `Scenario` - A user stores purchase information in a SharePoint list named Purchase Approvals. When a new purchase request is created, a flow is triggered and asks a manager/user to Approve/Reject.
-* `Prerequisites` - Each student must have a dedicated custom SharePoint list named Expense_<name>. The list must have four fields: Title, Amount (currency), Justification (multiple lines) and Status (single line of text). The student will create this list in the first task of this lab.
+* `Prerequisites` - Each student must have a dedicated custom SharePoint list named __Expense__. The list must have four fields: Title, Amount (currency), Justification (multiple lines) and Status (single line of text). The student will create this list in the first task of this lab.
 * `Remarks` - the first time approval is created in an environment, the system provisions the infrastructure (approval system tables are made in the internal database, which is Dataverse) needed for the approvals. Therefore, the first approval may take some time to appear.
 
 
@@ -19,7 +19,7 @@ In this lab, you will create a cloud flow using a Power Automate template that w
 ## Task 1
 
 Create your own custom SharePoint list using the following steps:
-- [Expense List](resources/Expense_Sid.csv) - Download this sample list for your reference
+- [Expense List](resources/Expense.csv) - Download this sample list for your reference
 - Navigate to your SharePoint site. The site URL is https://edumscloud.sharepoint.com/sites/PowerAutomateDemos
 - Import a SharePoint list
 
@@ -31,11 +31,11 @@ Create your own custom SharePoint list using the following steps:
 
     <img src="images/T1/image-1.png" alt="image" width="50%" height="50%">
 
-  c. Upload __Expense_Sid.csv__ from the resources of this lab and customize the list
+  c. Upload __Expense.csv__ from the resources of this lab and customize the list
     
     <img src="images/T1/image-4.png" alt="image" width="50%" height="50%">
   
-  d. Rename the list as __Expense_your-name__. Click on __Create__.
+  d. Rename the list as __Expense__. Click on __Create__.
 
     <img src="images/T1/image-5.png" alt="image" width="50%" height="50%">
 
@@ -51,7 +51,7 @@ Create a cloud flow from a template:
 
   <img src="images/T2/image-1.png" alt="image" width="50%" height="50%">
 
-  c. Update the values in the trigger. Site address: __https://edumscloud.sharepoint.com/sites/PowerAutomateDemos__ and List Name: __Expense_your-name__
+  c. Update the values in the trigger. Site address: __https://edumscloud.sharepoint.com/sites/PowerAutomateDemos__ and List Name: __Expense__
     
   <img src="images/T2/image-2.png" alt="image" width="50%" height="50%">
 
