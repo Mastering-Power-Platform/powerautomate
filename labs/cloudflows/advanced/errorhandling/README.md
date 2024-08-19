@@ -65,7 +65,7 @@ d. __Save__ and __Test__ the flow. Verify the flow run and check your email for 
 
 a. Remove the parallel branch by deleting it's action. Add a new __Send an email(v2)__ action at the end of the flow.
 - To: your-email
-- Subject: You flow has failed :()
+- Subject: You flow has failed :(
 - Body: Flow as failed.
 
 
@@ -107,7 +107,7 @@ concat('https://make.powerautomate.com/environments/', workflow()?['tags']['envi
 ```
 
 
-<img src="images/image-9.png" alt="image" width="50%" height="50%">
+<img src="images/image-9.png" alt="image" width="80%" height="80%">
 
 
 d. __Save__ and __Test__ the flow. Verify the email recievied with a link to the failed flow run.

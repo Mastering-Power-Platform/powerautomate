@@ -5,6 +5,7 @@ In this lab, you will create a cloud flow using a Power Automate to work with Fl
 * `Learning objectives`: Flow control, expressions, variables, using Date/Time Duration: 50 minutes.
 * `Scenario`: We have a list of offices in an Excel sheet. Create a Flow that will send a report describing this list of offices, including the biggest office.
 * `Prerequisites` - Each student must have a dedicated excel sheet __Offices.xlsx__. This list was will be imported diring the first task of this lab.
+* `Duration` - 60 minutes
 
 
 ## Task 1

@@ -15,7 +15,7 @@ If and Switch are very similar, but you should use the best function for your si
 In this lab, you will create a cloud flow using a Power Automate to work with conditions and switch functions.
 
 * `Learning objectives`- Conditions and Switches
-* `Duration` - 20 minutes
+* `Duration` - 30 minutes
 * `Scenario` - Send an email based on the conditions and switches on when a an item is created or modified in a SharePoint list.
 * `Prerequisites` - Each student must have a dedicated custom SharePoint list named __Work Progress Tracker__. This list was already created during the basic flow lab.
 

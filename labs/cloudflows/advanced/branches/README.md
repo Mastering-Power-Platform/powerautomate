@@ -5,7 +5,7 @@
 In this lab, we will trigger parallel approvals when a SharePoint list item is created.
 
 * `Learning objectives`- Branches in Cloud Flow
-* `Duration` - 10 minutes
+* `Duration` - 20 minutes
 * `Scenario` - Trigger parallel approvals when a an item is created in a SharePoint list.
 * `Prerequisites` - Each student must have a dedicated custom SharePoint list named __Expenses-your-name__. This list was already created during the lab.
 

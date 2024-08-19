@@ -19,12 +19,12 @@ Create your own custom SharePoint list using the following steps:
 
   a. Click on __Home__ > __+ New__ > __List__ > __Work progress tracker__ > __Use Template__
 
-    <img src="images/image.png" alt="image" width="50%" height="50%">
+    <img src="images/image.png" alt="image" width="80%" height="80%">
 
 
   c. Populate this list with few items and assign to yourself
    
-    <img src="images/image-2.png" alt="image" width="50%" height="50%">
+    <img src="images/image-2.png" alt="image" width="80%" height="80%">
 
 
 ## Task 2

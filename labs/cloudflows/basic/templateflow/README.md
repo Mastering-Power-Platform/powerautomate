@@ -115,11 +115,11 @@ f. Click the running flow to see the progress of this instance of the flow:
 
 g. Approve or reject the expense claim request by either __making a selection on your email__ or in the __Approvals Centre__
 
-  <img src="images/T2/image-12.png" alt="image" width="50%" height="50%">
+  <img src="images/T2/image-12.png" alt="image" width="80%" height="80%">
 
 h. Approve or Reject, and once the approval/rejection is completed, check the status value in the list.
 
-  <img src="images/T2/image-13.png" alt="image" width="50%" height="50%">
+  <img src="images/T2/image-13.png" alt="image" width="80%" height="80%">
 
 
 ## Optional exercise if time permits:
