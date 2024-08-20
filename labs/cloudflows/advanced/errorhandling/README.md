@@ -23,7 +23,9 @@ a. Let us start with creating a cloud flow that will fail :)
 <img src="images/image.png" alt="image" width="50%" height="50%">
 
 
-b. __Save__ and __Test__ the flow
+b. Adjust the values for the __site__ name and __list__ name to your values  
+
+c. __Save__ and __Test__ the flow
 
 > Note: The SharePoint item ID is not available in the list. This will make the flow fail.
 
