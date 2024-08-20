@@ -13,7 +13,7 @@ Through the rest of this module, you'll learn about the different types of funct
 
 ## Task 1
 
-a. Import the flow [solution available](/labs/cloudflows/advanced/expressions/resources/ExpressionsDemo.zip) in the resources section of this lab. Navigate to __My Flows__ > __Import__ > __Import Package (Legacy)__
+a. Import the flow [solution available](https://edumscloud-my.sharepoint.com/:u:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/EZOAz_W-Y2BBmOEZKi4ouK8BPbt0qeVG4FXFzP5Ktvbu-w?e=LRvt2B) in the resources section of this lab. Navigate to __My Flows__ > __Import__ > __Import Package (Legacy)__
 
 
 <img src="images/image-1.png" alt="image" width="50%" height="50%">
