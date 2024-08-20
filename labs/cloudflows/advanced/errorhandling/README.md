@@ -23,13 +23,13 @@ a. Let us start with creating a cloud flow that will fail :)
 <img src="images/image.png" alt="image" width="50%" height="50%">
 
 
-b. Adjust the values for the __site__ name and __list__ name to your values  
+b. Adjust the values for the __Site Address__ name and __List Name__ name to your values  
 
 c. __Save__ and __Test__ the flow
 
-> Note: The SharePoint item ID is not available in the list. This will make the flow fail.
+> Note: The SharePoint item ID is not on the list. This will make the flow fail.
 
-c. Check the __Cloud flow activity__ for failed runs. This typically takes some time to reflect and that is what makes error handling even more important.
+c. Check the __Cloud flow activity__ for failed runs. This typically takes some time to reflect, making error handling even more important.
 
 ## Task 2
 
@@ -65,9 +65,9 @@ d. __Save__ and __Test__ the flow. Verify the flow run and check your email for 
 
 ## Task 3
 
-a. Remove the parallel branch by deleting it's action. Add a new __Send an email(v2)__ action at the end of the flow.
+a. Remove the parallel branch by deleting its action. Add a new __Send an email(v2)__ action at the end of the flow.
 - To: your-email
-- Subject: You flow has failed :(
+- Subject: Your flow has failed :(
 - Body: Flow as failed.
 
 
