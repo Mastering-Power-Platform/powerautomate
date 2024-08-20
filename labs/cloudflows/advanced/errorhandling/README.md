@@ -16,7 +16,7 @@ This lab will focus on how you can use Configure run after and terminate flow, o
 ## Task 1
 
 a. Let us start with creating a cloud flow that will fail :)
-- Import the [Error Handling Demo.zip](/labs/cloudflows/advanced/errorhandling/resources/ErrorHandlingDemo.zip) cloud flow available in the resources section of this lab.
+- Import the [Error Handling Demo.zip](https://edumscloud-my.sharepoint.com/:u:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/EbCBWWExWNREtRvStO3qBOoBxz9n3zOzRbRaKAB5ey4WZA?e=4UvC0k) cloud flow available in the resources section of this lab.
 - Configure the actions while importing the flow. Click __My Flows__ > __Import__ > __Import Package(Legacy)__
 - After importing the flow will look like this:
 
