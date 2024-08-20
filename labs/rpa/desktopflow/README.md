@@ -54,7 +54,7 @@ b.  __Install the Power Automate for desktop application__ - Go to https://power
 
 <img src="images/image-2.png" alt="image" width="50%" height="50%">
 
-c. Download and Install the [legacy invoicing application](/labs/rpa/desktopflow/resources/ContosoInvoicingSetup.zip) provided in the resources of this lab. 
+c. Download and Install the [legacy invoicing application](https://edumscloud-my.sharepoint.com/:u:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/EZoYRs1Fh-FJn3y4Xcdd7wsBiIgv_feLLcYeTT0y36ddiA?e=4YohCv) provided in the resources of this lab. 
 
 - After the installation is fully complete, launch the Contoso Invoicing app from the Start menu by using the search bar in the lower part of your Windows desktop. Within the search bar, type Contoso Invoicing.
 
