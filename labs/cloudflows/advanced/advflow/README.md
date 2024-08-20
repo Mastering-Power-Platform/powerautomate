@@ -10,7 +10,7 @@ In this lab, you will create a cloud flow using a Power Automate to work with Fl
 
 ## Task 1
 
-a. Create an Excel workbook and a scheduled flow. The [Offices.xlsx](/labs/cloudflows/advanced/loops/resources/Offices.xlsx) excel is available in the resource section of this lab. Upload this spreadsheet in your onedrive for business.
+a. Create an Excel workbook and a scheduled flow. The [Offices.xlsx](https://edumscloud-my.sharepoint.com/:x:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/ESMbfJZkxX1Mr3duIHJbPMcB3Yp9H5Mv-dsbm39hUtPj7g?e=MOpaWi) excel is available in the resource section of this lab. Upload this spreadsheet in your onedrive for business.
 
 b. This document contains the list of offices of Contoso Corp. Each office has a limited number of seats.Every month a report  describing the list of offices and the total number of seats is sent to the management (in this case the management is...yourself). The e-mail should look like this:
 
