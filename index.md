@@ -27,7 +27,7 @@ Click on __Home__ > __+ Create Site__ > __Team Site__ > __Standard Team__ > __Us
 
 
 ### Slides
-Please download the slides by clicking [here](https://edumscloud-my.sharepoint.com/:f:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/EmS4x2D1Vp1Mlqmo-WKIg_YBOE-Wfq2IoFJnDaI2Tel94w?e=5GrMuj).
+Please download the slides by clicking [here](https://edumscloud-my.sharepoint.com/:f:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/Ek93qf0hddVAhs5HgB90czkBxqzJG7Aztzx43ZUPfxwgLQ?e=3ZCqah).
 
 
 # Day 1
