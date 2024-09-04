@@ -5,7 +5,7 @@ These are hands-on resources to help you learn Power Automate.
 
 ## Pre-req
 
-Access to Office 365 (Power Automate, Outlook, SharePoint and OneDrive) using lab credentials
+Access to Office 365 (Power Automate, Outlook, SharePoint and OneDrive) using lab credentials.
 
 ### Find your lab environment details
 - [List of usernames for this course](https://edumscloud-my.sharepoint.com/:x:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/ETGAI96lJSJJvabhN1Ni6ioBrteRjWJ-TVz3JCqhLJ0MXg?e=uOBXt8)
@@ -26,6 +26,7 @@ Access to Office 365 (Power Automate, Outlook, SharePoint and OneDrive) using la
 - Click **Next** and follow the instructions on the screen to set up multi-factor authentication using the **Authenticator** app or your **mobile number**.
 
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/fb765253-e26d-4a27-b925-80ccb2c1bf33">
+
 
 
 
