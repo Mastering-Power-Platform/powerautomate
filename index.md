@@ -23,7 +23,7 @@ Access to Office 365 (Power Automate, Outlook, SharePoint and OneDrive) using la
 
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/1d7f8cb3-2fc0-47ae-999e-289001dc3fad">
 
-- Click **Next** and follow the instructions on the screen to set up multi-factor authentication using the **Authenticator** app or your **mobile number**.
+- Click **Next** and follow the instructions on the screen to set up multi-factor authentication using the **Authenticator** app or your **phone number**.
 
 <img width="770" alt="image" src="https://github.com/user-attachments/assets/fb765253-e26d-4a27-b925-80ccb2c1bf33">
 
