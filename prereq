@@ -1,0 +1,15 @@
+Pre-requisites for __Mastering Power Automate__ labs.
+
+## Pre-req
+
+Setting up the experimental designer & activate your Power Apps developer plan
+
+### Find your lab environment details
+- [List of usernames for this course](https://edumscloud-my.sharepoint.com/:x:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/ETGAI96lJSJJvabhN1Ni6ioBrteRjWJ-TVz3JCqhLJ0MXg?e=uOBXt8)
+- Please type your name against the chosen username. Please use the same username throughout this course to maintain consistency.
+
+
+### Activate your developer license (Optional, as this license is already activated for lab users)
+The Microsoft365 license provides a Standard Power Apps and Power Automate license which is good enough for most labs. However, some labs require a Premium connector; the Power Apps Developer Plan gives you access to __Premium__ features of the product for free. The main restriction of the Developer license is that flows and applications created with this license cannot be used in production.
+Follow the instruction described here [Sign up for Power Apps Developer Plan - Power Apps | Microsoft Learn](https://learn.microsoft.com/en-us/power-platform/developer/plan) to activate this license.
+A dedicated Power Platform environment will be generated as part of this activation, and this is where you will do the exercises.
