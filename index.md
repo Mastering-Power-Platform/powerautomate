@@ -1,15 +1,27 @@
 
-Welcome to the __Mastering Power Automate__ labs.
+Welcome to the __Mastering Power Automate__ course labs.
 
 These are hands-on resources to help you learn Power Automate.
 
 ## Pre-req
 
-Setting up the experimental designer & activate your Power Apps developer plan
+Access to Office 365 (Power Automate, Outlook, SharePoint and OneDrive) using lab credentials
 
 ### Find your lab environment details
 - [List of usernames for this course](https://edumscloud-my.sharepoint.com/:x:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/ETGAI96lJSJJvabhN1Ni6ioBrteRjWJ-TVz3JCqhLJ0MXg?e=uOBXt8)
-- Please type your name against the chosen username. Please use the same username through this course to maintain consistency.
+- Please type your name against the chosen student username. Please use the same username throughout this course to maintain consistency.
+
+### Log in to Office 365 using your lab credentials
+- Navigate to [Office 365](https://www.office.com/) in an **incognito** browser window
+- Click on **Sign In** and enter your **username** and **password** for the selected student account
+- Please **DO NOT** use your Amgen credentials for this course
+- lick **Next** when prompted for **Action Required** for additional security:
+<img width="448" alt="image" src="https://github.com/user-attachments/assets/c66963ef-364d-4e5c-93db-c97be8fac003">
+- Setup Microsoft Authenticator app for your account:
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/1d7f8cb3-2fc0-47ae-999e-289001dc3fad">
+- Click **Next** and follow the instructions on the screen to set up multi-factor authentication
+![Uploading image.png…]()
+
 
 
 ### Activate your developer license (Optional, as this license is already activated for lab users)
