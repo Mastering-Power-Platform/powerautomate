@@ -6,7 +6,7 @@ You can tweak templates by adding, editing, or removing triggers and actions to 
 
 ## In this Lab
 
-In this lab, you will create a cloud flow using a Power Automate template that will automatically copy files from DropBox to SharePoint
+In this lab, you will create a cloud flow using a Power Automate template that will automatically copy files from OneDrive to SharePoint, Delete the file in OneDrive and send a notification.
 
 * `Learning objectives`- Copy Flow using SaaS Connectors
 * `Duration` - 20 minutes
@@ -18,36 +18,36 @@ In this lab, you will create a cloud flow using a Power Automate template that w
 ## Task 1
 
 Create a cloud flow from a template:
-  a. Navigate to __Templates__ and search for __sharepoint onedrive. Click on the first automated flow.
+  a. Navigate to __Templates__ and search for __sharepoint onedrive__. Click on the first automated flow.
 
   <img src="https://github.com/user-attachments/assets/260ee0a4-7906-42b3-88c4-6dc5042f236c" alt="image" width="50%" height="50%">
 
 
   b. Ensure all connections are authenticated. If not, please fix your connections. Click __Continue__.
 
-  <img src="images/image-1.png" alt="image" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/001d273a-36cd-43b6-89fa-6c2b6252df50" alt="image" width="50%" height="50%">
 
 
-  c. Update the values in the trigger. DropBox Folder Location: __Power Automate Demos__.
+  c. Update the values in the trigger. OneDrive Folder Location: __Power Automate Demos__.
     
-  <img src="images/image-2.png" alt="image" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/f716e6e4-4380-497e-8448-1a2567e472ee" alt="image" width="50%" height="50%">
 
 
   d. Update the __Create File__ action
   
-  - Site Address: https://edumscloud.sharepoint.com/sites/PowerAutomateDemos
+  - Site Address: https://edumscloud.sharepoint.com/sites/PowerAutomateDemos (Link to your SP site)
   - Folder Path: /Shared Documents
-  - File Name: x-ms-file-name
-  - File Content: File Content
+  - File Name: File name
+  - File Content: Body
  
-  <img src="images/image-3.png" alt="image" width="50%" height="50%">
+  <img src="https://github.com/user-attachments/assets/83d6bb9c-edcf-44b0-8b3a-36309bf7cc56" alt="image" width="50%" height="50%">
 
 
 e. __Save__ the flow
 
 ## Task 2
 
-Test the flow by uploading the pdf file (or any other file) to the DropBox folder __Power Automate_Demos_:
+Test the flow by uploading the pdf file (or any other file) to the OneDrive folder __Power Automate_Demos_:
 a. Navigate to your SharePoint list, for example, by clicking on the list name on the Quick Launch bar.
 
   <img src="images/image-4.png" alt="image" width="50%" height="50%">
