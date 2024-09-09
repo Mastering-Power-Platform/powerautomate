@@ -57,7 +57,6 @@ Please download the slides by clicking [here](https://edumscloud-my.sharepoint.c
 - [Creating a flow from scratch - Overdue Tasks](labs/cloudflows/basic/flowfromscratch/README.md)
 
 ## Advanced Cloud Flows
-- [Power Automate flow that interacts with Dataverse](labs/cloudflows/advanced/dataverseflow/README.md)
 - [Using Expressions in Power Automate](labs/cloudflows/advanced/expressions/README.md)
 - [Conditions and switch statements inside Power Automate](labs/cloudflows/advanced/controlflow/README.md)
 - [Advanced flow with Flow control, Variables, Expressions and Loops](labs/cloudflows/advanced/advflow/README.md)
