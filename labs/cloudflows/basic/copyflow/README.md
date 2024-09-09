@@ -47,10 +47,13 @@ e. __Save__ the flow
 
 ## Task 2
 
-Test the flow by uploading the pdf file (or any other file) to the OneDrive folder __Power Automate_Demos_:
-a. Navigate to your SharePoint list, for example, by clicking on the list name on the Quick Launch bar.
+a. Test the flow by uploading the pdf file (or any other file) to the OneDrive folder __Power Automate_Demos_:
 
-  <img src="images/image-4.png" alt="image" width="50%" height="50%">
+
+
+  <img src="https://github.com/user-attachments/assets/8f3544fc-c588-4abc-ae3c-ad4717fbf649" alt="image" width="50%" height="50%">
+  
+  
 
 
 b. This will automatically trigger the flow.
