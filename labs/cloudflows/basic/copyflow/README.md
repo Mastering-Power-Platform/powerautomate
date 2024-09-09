@@ -10,18 +10,18 @@ In this lab, you will create a cloud flow using a Power Automate template that w
 
 * `Learning objectives`- Copy Flow using SaaS Connectors
 * `Duration` - 20 minutes
-* `Scenario` - A user or application uploads a file to DropBox or any other cloud storage. This file will automatically be copied into the SharePoint document library.
-* `Prerequisites` - Each student must have a DropBox account using their personal IDs and access to SharePoint document library. The DropBox account must have a folder called Power Automate Demos.
+* `Scenario` - A user or application uploads a file to OneDrive or any other cloud storage. This file will automatically be copied into the SharePoint document library.
+* `Prerequisites` - Each student must have a OneDrive account using student user accounts and access to SharePoint document library. The OneDrive account must have a folder called Power Automate Demos.
 * `Remarks` - The pdf file to be uploaded is available in the resources section of this lab.
 
 
 ## Task 1
 
 Create a cloud flow from a template:
-  a. Navigate to __Templates__ and search for __sharepoint dropbox__. Click on the first automated flow.
+  a. Navigate to __Templates__ and search for __sharepoint onedrive. Click on the first automated flow.
 
-  <img src="images/image.png" alt="image" width="50%" height="50%">
-  
+  <img src="https://github.com/user-attachments/assets/260ee0a4-7906-42b3-88c4-6dc5042f236c" alt="image" width="50%" height="50%">
+
 
   b. Ensure all connections are authenticated. If not, please fix your connections. Click __Continue__.
 
