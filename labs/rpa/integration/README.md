@@ -12,7 +12,7 @@ You'll complete the following tasks in this lab:
 - Integrate the desktop flow from the [desktop flow](/labs/rpa/desktopflow/README.md) into the cloud flow.
 - Perform a test run of the new cloud flow.
 - `Duration`: 40 minutes
-- `Prerequisites` - Each student must have a dedicated custom SharePoint list named [Invoicing](/labs/rpa/integration/resources/Invoicing.csv). This list can be imported from the resources section of this lab.
+- `Prerequisites` - Each student must have a dedicated custom SharePoint list named [Invoicing](https://edumscloud-my.sharepoint.com/:x:/g/personal/siddharthdwn_edumscloud_onmicrosoft_com/ERTZ-0e-FsBPgV06nvKdujEBy9_QE3jj0EGEe8S3D5PYlQ?e=bAcRdD). This list can be imported from the resources section of this lab.
 
 
 ## Task 1
