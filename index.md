@@ -15,17 +15,17 @@ Access to Office 365 (Power Automate, Outlook, SharePoint and OneDrive) using la
 - Navigate to [Office 365](https://www.office.com/) in an **incognito** browser window
 - Click on **Sign In** and enter your **username** and **password** for the selected student account
 - Please **DO NOT** use your Amgen credentials for this course
-- Click **Next** when prompted for **Action Required** for additional security:
+- Click **Ask Later** when prompted for **Action Required** for additional security:
 
-<img width="448" alt="image" src="https://github.com/user-attachments/assets/c66963ef-364d-4e5c-93db-c97be8fac003">
+<img width="433" alt="image" src="https://github.com/user-attachments/assets/68411ca6-1c3e-4129-a79d-cb876611fda7">
 
-- Setup Microsoft Authenticator app for your account:
+- **Skip** Microsoft Authenticator setup for your account:
 
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/1d7f8cb3-2fc0-47ae-999e-289001dc3fad">
+<img width="719" alt="image" src="https://github.com/user-attachments/assets/a4890927-c64d-4cbf-85e3-16c2f1265e12">
 
-- Click **Next** and follow the instructions on the screen to set up multi-factor authentication using the **Authenticator** app or your **phone number**.
+- Click **Yes** when prompted for **Stay Signed In?**
 
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/fb765253-e26d-4a27-b925-80ccb2c1bf33">
+<img width="440" alt="image" src="https://github.com/user-attachments/assets/4f7e72b4-bbd3-454d-97c9-18ee2fb0903a">
 
 
 
